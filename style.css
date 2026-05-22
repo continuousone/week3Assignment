@@ -1,8 +1,12 @@
-body, html {
+body{
     font-family: "Alfa Slab One", serif;
     font-weight: 400;
     font-style: normal;
     margin: 0;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
 
 /* .container {
